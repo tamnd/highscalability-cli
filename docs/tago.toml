@@ -1,0 +1,10 @@
+title       = "hsc"
+baseURL     = "https://highscalability-cli.tamnd.com/"
+description = "Browse High Scalability architecture articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/highscalability-cli"
